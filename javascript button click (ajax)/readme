@@ -1,0 +1,8 @@
+Stwórz przycisk “Pobierz dane”. Pod zdarzenie onclick tego przycisku
+podepnij funkcje pobierzDane(event).
+Funkcja pobierzDane(event) pobiera z serwera objekt JSON ( URL =
+http://echo.jsontest.com/userId/108/userName/Akademia108/userURL/
+akademia108.pl ). Dane zawarte w pobranym obiekcie wstaw go do
+strony.
+Napisz kod za pomocą czystego Javascript i użyj do tego stworzonej na
+zajęciach funkcji ajax().
